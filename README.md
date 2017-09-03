@@ -4,7 +4,7 @@
 
 Animation of fireworks like blast effect
 
-Animation using CoreAnimation framweork and CAEmitterCell 
+Animation using CoreAnimation framework and CAEmitterCell 
 
 ### Sample project output
 
