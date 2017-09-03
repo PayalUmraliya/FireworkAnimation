@@ -8,4 +8,4 @@ Animation using CoreAnimation framweork and CAEmitterCell
 
 ### Sample project output
 
-<img src="https://github.com/PayalUmraliya/PUGifLoaderControl/blob/master/projectoutput.gif" width="240" height="500" />
+<img src="https://github.com/PayalUmraliya/FireworkAnimation/blob/master/fireworkoutput.gif" width="240" height="500" />
